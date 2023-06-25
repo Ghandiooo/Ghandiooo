@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as a Fullstack developer 
+- 🔭 A software engineer with a diverse background and extensive experience in various industries. 
 - 🌱 I’m currently learning react.js
 - 👯 I’m looking to collaborate on Flutter / Golang projects
 - 📫 How to reach me: ghandorwork@gmail.com
