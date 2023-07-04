@@ -1,4 +1,4 @@
-### Hi 
+### Hi there !
 
 <!--
 **Ghandiooo/Ghandiooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 A software engineer with a diverse background and extensive experience in various industries. 
+- 🔭 I'm a software engineer with a diverse background and extensive experience in various industries. 
 - 🌱 I’m currently learning react.js
 - 👯 I’m looking to collaborate on Flutter / Golang projects
 - 📫 How to reach me: ghandorwork@gmail.com
