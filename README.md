@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm a software engineer with a diverse background and extensive experience in various industries. 
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning bug bounty
 - 👯 I’m looking to collaborate on Flutter Apps / Golang projects / 
 - 📫 How to reach me: ghandorwork@gmail.com
 
