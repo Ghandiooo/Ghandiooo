@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there! I'm Mahmoud
 
 <!--
 **Ghandiooo/Ghandiooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I'm a software engineer with a diverse background and extensive experience in various industries. 
+- 🔭 With five years of professional experience, I have honed my skills in both mobile and backend development. Starting my career as a Mobile Developer, I built robust applications using Kotlin and Flutter, gaining expertise in creating seamless and engaging user experiences. Later, I transitioned to Backend Development, specializing in Golang, where I developed scalable and high-performance systems that power impactful applications.
+
+While my primary focus remains backend development, I have also collaborated with frontend teams, contributing to projects using React. Though my React expertise is limited, these experiences have enriched my understanding of full-stack development and cross-team collaboration.
+
+Throughout my career, I have successfully delivered diverse projects across various domains, leveraging my adaptability and problem-solving skills. I am dedicated to building efficient, maintainable, and innovative software solutions that drive business success and exceed user expectations.
+
 - 👯 I’m looking to collaborate on Golang projects
 
 
