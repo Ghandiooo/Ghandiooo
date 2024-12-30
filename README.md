@@ -6,16 +6,21 @@
 Here are some ideas to get you started:
 -->
 🔧 5+ years of experience in software development, specializing in both mobile and backend development.
+
 📱 Mobile Development:
 Built seamless and engaging applications using Kotlin and Flutter.
 Focused on creating user-friendly and robust solutions.
+
 💻 Backend Development:
 Specialize in Golang, developing scalable, high-performance systems.
 Expertise in building maintainable and efficient software solutions.
+
 🌐 Frontend Collaboration:
 Worked with frontend teams using React, gaining insights into full-stack development.
+
 🚀 Project Delivery:
 Successfully delivered projects across diverse domains, demonstrating adaptability and problem-solving skills.
+
 🎯 Commitment:
 Dedicated to creating innovative solutions that drive business success and exceed user expectations.
 
